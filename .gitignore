@@ -1,0 +1,8 @@
+venv
+.ipynb_checkpoints
+.env-live
+.env-live*
+
+*.pyc
+.~jrjModelRegistry/*
+.DS_Store
